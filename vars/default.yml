@@ -1,0 +1,6 @@
+---
+create_containers: 1
+default_container_name: mynginx
+default_container_image: nginx
+external_port: 8080
+docker_port: 80
